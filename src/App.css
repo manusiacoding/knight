@@ -1,5 +1,6 @@
 :root body{
   background-color: #34393e;
+  overflow-x: hidden;
 }
 
 .App {
